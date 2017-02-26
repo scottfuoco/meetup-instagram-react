@@ -1,0 +1,11 @@
+.commentBar {
+  margin: 20px 0;
+}
+
+.commentInput {
+  outline: none;
+  border: none;
+  height: 30px;
+  width: 90%;
+  font-size: 1.3rem;
+}

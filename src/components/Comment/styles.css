@@ -1,0 +1,9 @@
+.commentContainer {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 5%;
+}
+
+.comment {
+  margin-left: 20px;
+}
