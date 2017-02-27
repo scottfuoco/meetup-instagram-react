@@ -1,4 +1,4 @@
-# DJ and Scott's React-Redux Meetup
+# DJ and Scott's React Meetup
 
 ## Installation Instructions
 - yarn
